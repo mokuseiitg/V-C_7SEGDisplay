@@ -5,10 +5,10 @@
 *MCU  
   PIC16F1823  
 *IO  
-  MCP230017  
+  MCP23017  
 *電流センサ  
   ACS712 (30A)  
 *IDE、コンパイラ  
- MPLAB X IDE v4.05  
- XC8 v1.45  
- MCC v3.45.1  
+  MPLAB X IDE v4.05  
+  XC8 v1.45  
+  MCC v3.45.1  
